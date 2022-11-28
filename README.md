@@ -8,10 +8,6 @@
 - This web application helps students write notes and study in a simple format.
 - I learned the fundamentals of HTML, CSS, and JS.
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
 
 ## Installation
 
